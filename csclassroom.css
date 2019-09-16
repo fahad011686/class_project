@@ -1,0 +1,38 @@
+body {
+    font-family: 'Noto Serif', serif;
+    background-color: white;
+}
+
+header {
+    font-size: 50px;
+    padding: 50px;
+
+}
+
+.group {
+    font-family: Helvetica, sans-serif;
+    border: 1px solid #5c5c5c;
+    max-width: 75%;
+    margin: 4px;
+    padding: 10px 10px 50px 10px;
+    background-color: #e6e6e6;
+}
+
+.group_header {
+    background-color: #5c5c5c;
+    border-radius: 5px;
+    color: white;
+    padding: 5px 20px 5px 20px;
+}
+
+
+input[type=text] {
+    width: 80%;
+    padding: 5px;
+    font-size: 14px;
+}
+
+.btn {
+        padding: 5px;
+        font: size 18px;
+}
